@@ -73,7 +73,7 @@ Created an interactive dashboard to visualize:
 
 ### Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard Preview.png)
 <h2>Dashboard Preview</h2>
 
 <p align="center">
