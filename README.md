@@ -73,12 +73,7 @@ Created an interactive dashboard to visualize:
 
 ### Dashboard Preview
 
-![Dashboard Preview](Dashboard Preview.png)
-<h2>Dashboard Preview</h2>
-
-<p align="center">
-  <img src="dashboard_preview.png" width="900">
-</p>
+![Dashboard Preview](Dashboard%20Preview.png)
 
 
 ### Key KPIs
